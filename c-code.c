@@ -8,7 +8,7 @@ int main()
     {
 
     p = a * b;
-    printf("2 x b = %d \n", p);
+    printf("2 x %d = %d \n", b, p);
 
 
     }
